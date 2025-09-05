@@ -1,0 +1,20 @@
+C:\Users\Jani\Desktop\Point in Multiverse\WindowsFormsApp2\bin\Debug\Point in Multiverse.exe.config
+C:\Users\Jani\Desktop\Point in Multiverse\WindowsFormsApp2\bin\Debug\Point in Multiverse.exe
+C:\Users\Jani\Desktop\Point in Multiverse\WindowsFormsApp2\bin\Debug\Point in Multiverse.pdb
+C:\Users\Jani\Desktop\Point in Multiverse\WindowsFormsApp2\obj\Debug\Point in Multiverse.csproj.AssemblyReference.cache
+C:\Users\Jani\Desktop\Point in Multiverse\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Jani\Desktop\Point in Multiverse\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Jani\Desktop\Point in Multiverse\WindowsFormsApp2\obj\Debug\Point in Multiverse.csproj.GenerateResource.cache
+C:\Users\Jani\Desktop\Point in Multiverse\WindowsFormsApp2\obj\Debug\Point in Multiverse.csproj.CoreCompileInputs.cache
+C:\Users\Jani\Desktop\Point in Multiverse\WindowsFormsApp2\obj\Debug\Point in Multiverse.exe
+C:\Users\Jani\Desktop\Point in Multiverse\WindowsFormsApp2\obj\Debug\Point in Multiverse.pdb
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\bin\Debug\Point in Multiverse.exe.config
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\bin\Debug\Point in Multiverse.exe
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\bin\Debug\Point in Multiverse.pdb
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Debug\Point in Multiverse.csproj.AssemblyReference.cache
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Debug\Point in Multiverse.csproj.GenerateResource.cache
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Debug\Point in Multiverse.csproj.CoreCompileInputs.cache
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Debug\Point in Multiverse.exe
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Debug\Point in Multiverse.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\bin\Release\Point in Multiverse.exe.config
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\bin\Release\Point in Multiverse.exe
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\bin\Release\Point in Multiverse.pdb
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Release\Point in Multiverse.csproj.AssemblyReference.cache
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Release\Point in Multiverse.csproj.GenerateResource.cache
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Release\Point in Multiverse.csproj.CoreCompileInputs.cache
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Release\Point in Multiverse.exe
+C:\Users\Jani\Nextcloud\Visual-Studio-Projects\Point in Multiverse\WindowsFormsApp2\obj\Release\Point in Multiverse.pdb

@@ -1,0 +1,11 @@
+
+# Treat these as documentation so they don't count toward language stats
+*.html linguist-documentation
+*.cshtml linguist-documentation
+*.razor linguist-documentation
+*.css linguist-documentation
+*.js linguist-documentation
+
+# Force C# for .cs files
+*.cs linguist-language=C#
+

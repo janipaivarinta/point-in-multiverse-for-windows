@@ -1,0 +1,52 @@
+U:/2018-2019/Windows-ohjelmointi/WindowsFormsApp2/WindowsFormsApp2/bin/Debug/WindowsFormsApp2.exe.config
+U:/2018-2019/Windows-ohjelmointi/WindowsFormsApp2/WindowsFormsApp2/bin/Debug/WindowsFormsApp2.exe
+U:/2018-2019/Windows-ohjelmointi/WindowsFormsApp2/WindowsFormsApp2/bin/Debug/WindowsFormsApp2.pdb
+U:/2018-2019/Windows-ohjelmointi/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.csprojAssemblyReference.cache
+U:/2018-2019/Windows-ohjelmointi/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.Form1.resources
+U:/2018-2019/Windows-ohjelmointi/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.Properties.Resources.resources
+U:/2018-2019/Windows-ohjelmointi/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.csproj.GenerateResource.cache
+U:/2018-2019/Windows-ohjelmointi/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.csproj.CoreCompileInputs.cache
+U:/2018-2019/Windows-ohjelmointi/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.exe
+U:/2018-2019/Windows-ohjelmointi/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.pdb
+/Users/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/bin/Debug/WindowsFormsApp2.exe.config
+/Users/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/bin/Debug/WindowsFormsApp2.exe
+/Users/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/bin/Debug/WindowsFormsApp2.pdb
+/Users/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.csprojAssemblyReference.cache
+/Users/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.Form1.resources
+/Users/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.Properties.Resources.resources
+/Users/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.csproj.GenerateResource.cache
+/Users/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.csproj.CoreCompileInputs.cache
+/Users/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.exe
+/Users/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.pdb
+/home/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/bin/Debug/WindowsFormsApp2.exe.config
+/home/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/bin/Debug/WindowsFormsApp2.exe
+/home/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/bin/Debug/WindowsFormsApp2.pdb
+/home/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.csprojAssemblyReference.cache
+/home/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.Form1.resources
+/home/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.Properties.Resources.resources
+/home/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.csproj.GenerateResource.cache
+/home/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.csproj.CoreCompileInputs.cache
+/home/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.exe
+/home/jani/Nextcloud/MonoDevelop-Projects/WindowsFormsApp2/WindowsFormsApp2/obj/Debug/WindowsFormsApp2.pdb
+C:\Users\e1601212\OneDrive\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Point in Multiverse.exe.config
+C:\Users\e1601212\OneDrive\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Point in Multiverse.exe
+C:\Users\e1601212\OneDrive\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Point in Multiverse.pdb
+C:\Users\e1601212\OneDrive\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\e1601212\OneDrive\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\e1601212\OneDrive\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\e1601212\OneDrive\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\e1601212\OneDrive\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Point in Multiverse.exe
+C:\Users\e1601212\OneDrive\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Point in Multiverse.pdb
+C:\Users\e1601212\OneDrive\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\e1601212\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Point in Multiverse.exe.config
+C:\Users\e1601212\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Point in Multiverse.exe
+C:\Users\e1601212\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Point in Multiverse.pdb
+C:\Users\e1601212\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\e1601212\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\e1601212\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\e1601212\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\e1601212\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\e1601212\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Point in Multiverse.exe
+C:\Users\e1601212\OneDrive - Vaasan ammattikorkeakoulu\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Point in Multiverse.pdb
+C:\Users\Jani\Desktop\Windows-ohjelmointi\U-asema\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Point in Multiverse.exe
+C:\Users\Jani\Desktop\Windows-ohjelmointi\U-asema\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Point in Multiverse.pdb
